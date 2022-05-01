@@ -2,7 +2,10 @@
 
 ### A colorful encyclopedia app of fruits using SwiftUI
 
-<img width="800"  alt="fructus" src="https://user-images.githubusercontent.com/16993073/166144365-e86eee9d-ed06-4ce4-bbbf-09451bc44cc6.png"> <img width="200" alt="fructus" src="https://user-images.githubusercontent.com/16993073/166145002-503fc4d1-e2f8-4c4a-b0e7-a8d457e5ba35.gif">
+<div>
+<img align=center width="800"  alt="fructus" src="https://user-images.githubusercontent.com/16993073/166144365-e86eee9d-ed06-4ce4-bbbf-09451bc44cc6.png"> <img align=center width="155" alt="fructus" src="https://user-images.githubusercontent.com/16993073/166145002-503fc4d1-e2f8-4c4a-b0e7-a8d457e5ba35.gif">
+<div>
+  
 ---
 
 ### Table of Contents
